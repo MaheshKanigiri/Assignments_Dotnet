@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\StringOperations\bin\Debug\StringOperations.exe.config
+C:\Users\LF775KW\source\repos\StringOperations\bin\Debug\StringOperations.exe
+C:\Users\LF775KW\source\repos\StringOperations\bin\Debug\StringOperations.pdb
+C:\Users\LF775KW\source\repos\StringOperations\obj\Debug\StringOperations.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\StringOperations\obj\Debug\StringOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\StringOperations\obj\Debug\StringOperations.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\StringOperations\obj\Debug\StringOperations.exe
+C:\Users\LF775KW\source\repos\StringOperations\obj\Debug\StringOperations.pdb

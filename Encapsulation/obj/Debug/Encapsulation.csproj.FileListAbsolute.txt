@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\Encapsulation\bin\Debug\Encapsulation.exe.config
+C:\Users\LF775KW\source\repos\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\LF775KW\source\repos\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\LF775KW\source\repos\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\Encapsulation\obj\Debug\Encapsulation.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\LF775KW\source\repos\Encapsulation\obj\Debug\Encapsulation.pdb

@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\OperatorOverloading\bin\Debug\OperatorOverloading.exe.config
+C:\Users\LF775KW\source\repos\OperatorOverloading\bin\Debug\OperatorOverloading.exe
+C:\Users\LF775KW\source\repos\OperatorOverloading\bin\Debug\OperatorOverloading.pdb
+C:\Users\LF775KW\source\repos\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\OperatorOverloading\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\OperatorOverloading\obj\Debug\OperatorOverloading.exe
+C:\Users\LF775KW\source\repos\OperatorOverloading\obj\Debug\OperatorOverloading.pdb

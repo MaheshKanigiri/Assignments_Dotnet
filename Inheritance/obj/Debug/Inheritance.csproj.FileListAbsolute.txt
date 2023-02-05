@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Users\LF775KW\source\repos\Inheritance\bin\Debug\Inheritance.exe
+C:\Users\LF775KW\source\repos\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\LF775KW\source\repos\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\Inheritance\obj\Debug\Inheritance.exe
+C:\Users\LF775KW\source\repos\Inheritance\obj\Debug\Inheritance.pdb
