@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\StudentCollection\bin\Debug\StudentCollection.exe.config
+C:\Users\LF775KW\source\repos\StudentCollection\bin\Debug\StudentCollection.exe
+C:\Users\LF775KW\source\repos\StudentCollection\bin\Debug\StudentCollection.pdb
+C:\Users\LF775KW\source\repos\StudentCollection\obj\Debug\StudentCollection.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\StudentCollection\obj\Debug\StudentCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\StudentCollection\obj\Debug\StudentCollection.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\StudentCollection\obj\Debug\StudentCollection.exe
+C:\Users\LF775KW\source\repos\StudentCollection\obj\Debug\StudentCollection.pdb

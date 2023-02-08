@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\LinqAndLambdas\bin\Debug\LinqAndLambdas.exe.config
+C:\Users\LF775KW\source\repos\LinqAndLambdas\bin\Debug\LinqAndLambdas.exe
+C:\Users\LF775KW\source\repos\LinqAndLambdas\bin\Debug\LinqAndLambdas.pdb
+C:\Users\LF775KW\source\repos\LinqAndLambdas\obj\Debug\LinqAndLambdas.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\LinqAndLambdas\obj\Debug\LinqAndLambdas.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\LinqAndLambdas\obj\Debug\LinqAndLambdas.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\LinqAndLambdas\obj\Debug\LinqAndLambdas.exe
+C:\Users\LF775KW\source\repos\LinqAndLambdas\obj\Debug\LinqAndLambdas.pdb

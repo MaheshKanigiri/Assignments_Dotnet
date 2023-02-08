@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\LF775KW\source\repos\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\LF775KW\source\repos\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\LF775KW\source\repos\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\LF775KW\source\repos\FileHandling\obj\Debug\FileHandling.pdb

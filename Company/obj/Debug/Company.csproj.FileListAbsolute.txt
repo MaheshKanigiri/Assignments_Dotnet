@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\Company\bin\Debug\Company.exe.config
+C:\Users\LF775KW\source\repos\Company\bin\Debug\Company.exe
+C:\Users\LF775KW\source\repos\Company\bin\Debug\Company.pdb
+C:\Users\LF775KW\source\repos\Company\obj\Debug\Company.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\Company\obj\Debug\Company.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\Company\obj\Debug\Company.exe
+C:\Users\LF775KW\source\repos\Company\obj\Debug\Company.pdb

@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\GenericExample\bin\Debug\GenericExample.exe.config
+C:\Users\LF775KW\source\repos\GenericExample\bin\Debug\GenericExample.exe
+C:\Users\LF775KW\source\repos\GenericExample\bin\Debug\GenericExample.pdb
+C:\Users\LF775KW\source\repos\GenericExample\obj\Debug\GenericExample.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\GenericExample\obj\Debug\GenericExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\GenericExample\obj\Debug\GenericExample.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\GenericExample\obj\Debug\GenericExample.exe
+C:\Users\LF775KW\source\repos\GenericExample\obj\Debug\GenericExample.pdb

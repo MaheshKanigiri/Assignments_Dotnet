@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\Users\LF775KW\source\repos\DelegateExample\bin\Debug\DelegateExample.exe
+C:\Users\LF775KW\source\repos\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\Users\LF775KW\source\repos\DelegateExample\obj\Debug\DelegateExample.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\DelegateExample\obj\Debug\DelegateExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\DelegateExample\obj\Debug\DelegateExample.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\DelegateExample\obj\Debug\DelegateExample.exe
+C:\Users\LF775KW\source\repos\DelegateExample\obj\Debug\DelegateExample.pdb

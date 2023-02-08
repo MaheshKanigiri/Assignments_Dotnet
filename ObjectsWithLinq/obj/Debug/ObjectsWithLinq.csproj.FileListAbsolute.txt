@@ -1,0 +1,8 @@
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\bin\Debug\ObjectsWithLinq.exe.config
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\bin\Debug\ObjectsWithLinq.exe
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\bin\Debug\ObjectsWithLinq.pdb
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\obj\Debug\ObjectsWithLinq.csproj.AssemblyReference.cache
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\obj\Debug\ObjectsWithLinq.csproj.SuggestedBindingRedirects.cache
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\obj\Debug\ObjectsWithLinq.csproj.CoreCompileInputs.cache
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\obj\Debug\ObjectsWithLinq.exe
+C:\Users\LF775KW\source\repos\ObjectsWithLinq\obj\Debug\ObjectsWithLinq.pdb
